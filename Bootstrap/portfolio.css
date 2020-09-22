@@ -1,0 +1,6 @@
+div.img:hover{
+	text-shadow: 30px;
+	transition: 0.3s;
+	filter: blur();
+
+}
